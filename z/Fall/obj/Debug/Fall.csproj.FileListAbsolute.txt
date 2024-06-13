@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.frmGame.resources
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.Properties.Resources.resources
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Fall\bin\Debug\Fall.exe.config
+C:\Users\admin\source\repos\Fall\bin\Debug\Fall.exe
+C:\Users\admin\source\repos\Fall\bin\Debug\Fall.pdb
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.exe
+C:\Users\admin\source\repos\Fall\obj\Debug\Fall.pdb
